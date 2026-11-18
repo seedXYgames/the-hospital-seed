@@ -1,4 +1,4 @@
-import{S as e}from"./index-Cm0Dm-tp.js";const o="sceneUboDeclaration",r=`layout(std140,column_major) uniform;uniform Scene {mat4 viewProjection;
+import{S as e}from"./index-ClV3f-CN.js";const o="sceneUboDeclaration",r=`layout(std140,column_major) uniform;uniform Scene {mat4 viewProjection;
 #ifdef MULTIVIEW
 mat4 viewProjectionR;
 #endif 

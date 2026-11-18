@@ -1,4 +1,4 @@
-import{S as e}from"./index-Cm0Dm-tp.js";import{s as se,m as oe,d as ue,a as le,l as ve}from"./logDepthDeclaration-30qRMfsP.js";import{h as ce}from"./helperFunctions-BrhvRsvF.js";const i="uvAttributeDeclaration",M=`#if defined(UV{X}) && !defined(USE_VERTEX_PULLING)
+import{S as e}from"./index-ClV3f-CN.js";import{s as se,m as oe,d as ue,a as le,l as ve}from"./logDepthDeclaration-05ImTZcl.js";import{h as ce}from"./helperFunctions-CHlWc90K.js";const i="uvAttributeDeclaration",M=`#if defined(UV{X}) && !defined(USE_VERTEX_PULLING)
 attribute uv{X}: vec2f;
 #endif
 `;e.IncludesShadersStoreWGSL[i]||(e.IncludesShadersStoreWGSL[i]=M);const pe={name:i,shader:M},r="bonesDeclaration",y=`#if NUM_BONE_INFLUENCERS>0

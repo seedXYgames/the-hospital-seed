@@ -1,4 +1,4 @@
-import{S as e}from"./index-Cm0Dm-tp.js";import{s as se,m as de,d as le,a as ce,l as ve}from"./logDepthDeclaration-30qRMfsP.js";import{h as ue}from"./helperFunctions-BrhvRsvF.js";const t="objectIdFunctions",F=`fn encodeObjectId(objectId: f32)->vec4f {
+import{S as e}from"./index-ClV3f-CN.js";import{s as se,m as de,d as le,a as ce,l as ve}from"./logDepthDeclaration-05ImTZcl.js";import{h as ue}from"./helperFunctions-CHlWc90K.js";const t="objectIdFunctions",F=`fn encodeObjectId(objectId: f32)->vec4f {
 #ifdef PREPASS_OBJECT_ID_R8
 return vec4f(objectId/255.0,0.0,0.0,1.0);
 #else
